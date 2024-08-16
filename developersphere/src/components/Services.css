@@ -1,0 +1,51 @@
+
+  
+.service {
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+
+.services {
+    display: flex;
+    justify-content: space-between;
+}
+  
+.service-item {
+    width: 48%; 
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-align: left;
+    background-color: rgb(165, 220, 228);
+    padding: 20px;
+}
+  
+  /* Add any additional styling as needed */
+  
+.service-items {
+    width: 48%; 
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 600px;
+    text-align: right;
+    background-color: rgb(165, 220, 228); 
+    padding: 20px;
+}
+.services-items {
+    width: 48%; 
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left:600px;
+    text-align: right;
+    background-color: rgb(165, 220, 228); 
+    padding: 20px;
+  
+}
+.services-item {
+    width: 48%; 
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-align: left;
+    background-color: rgb(165, 220, 228); 
+    padding: 20px;
+}

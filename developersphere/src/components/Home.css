@@ -1,0 +1,157 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  background-color: #b8eeee;
+  padding: 90px;
+  margin-right: 100px;
+  width: 88%;
+}
+
+button {
+  height: 25%;
+  width: 50%;
+  background-color: rgb(230, 241, 241);
+  color: rgb(233, 253, 253);
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px; /* Curved sides */
+  font-size: 16px;
+
+
+  transition: background-color 0.3s ease; /* Add a smooth transition effect */
+
+  /* Hover effect */
+  &:hover {
+    background-color: rgb(116, 203, 230);
+  }
+}
+
+
+.quote {
+  flex: 1;
+  font-size: 23px;
+  text-align: left;
+  max-width: 500px;
+  
+}
+
+
+.imgcontt{
+  flex: 1;
+  text-align: right;
+  max-width: 400px;
+  max-height: 300py; /* Resize the logo to fit its container */
+}
+
+.services{
+  text-align: center;
+  font-size: 23px;
+  padding: 90px;
+  width : 88%;
+  
+}
+
+button {
+  height: 25%;
+  width: 10%;
+  background-color: rgb(102, 168, 170);
+  color: rgba(34, 165, 40, 0.979);
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px; /* Curved sides */
+  font-size: 16px;
+
+
+  transition: background-color 0.3s ease; /* Add a smooth transition effect */
+
+  /* Hover effect */
+  &:hover {
+    background-color: rgb(167, 199, 209);
+  }
+}
+
+
+button {
+  height: 25%;
+  width: 10%;
+  background-color: rgb(102, 168, 170);
+  color: rgba(34, 165, 40, 0.979);
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px; /* Curved sides */
+  font-size: 16px;
+
+
+  transition: background-color 0.3s ease; /* Add a smooth transition effect */
+
+  /* Hover effect */
+  &:hover {
+    background-color: rgb(167, 199, 209);
+  }
+}
+
+.Contactus{
+  text-align: center;
+  font-size: 23px;
+  padding: 90px;
+  width : 88%;
+}
+
+.Aboutus{
+  text-align: center;
+  background-color: #b8eeee;
+  font-size: 23px;
+  padding: 90px;
+  width : 88%;
+}
+
+button {
+  height: 25%;
+  width: 10%;
+  background-color: rgb(102, 168, 170);
+  color: rgba(34, 165, 40, 0.979);
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px; /* Curved sides */
+  font-size: 16px;
+
+
+  transition: background-color 0.3s ease; /* Add a smooth transition effect */
+
+  /* Hover effect */
+  &:hover {
+    background-color: rgb(167, 199, 209);
+  }
+}
+
+.Hireus{
+  text-align: center;
+  font-size: 23px;
+  background-color: #b8eeee;
+  padding: 90px;
+  width : 88%;
+}
+
+button {
+  height: 25%;
+  width: 10%;
+  background-color: rgb(102, 168, 170);
+  color: rgba(34, 165, 40, 0.979);
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px; /* Curved sides */
+  font-size: 16px;
+
+
+  transition: background-color 0.3s ease; /* Add a smooth transition effect */
+
+  /* Hover effect */
+  &:hover {
+    background-color: rgb(167, 199, 209);
+  }
+}

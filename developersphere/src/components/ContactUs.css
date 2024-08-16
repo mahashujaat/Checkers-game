@@ -1,0 +1,25 @@
+.contactus{
+    text-align: center;
+    padding: 90px;
+    background-color:rgb(152, 224, 224);
+}
+
+.button-container{
+    align-items: center;
+    padding: 90px;
+
+}
+
+button {
+    align-items: center;
+    height: 25%;
+    margin-bottom: 3%;
+    width: 50%;
+    background-color: rgb(11, 124, 124);
+    color: rgb(237, 246, 248);
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px; /* Curved sides */
+    font-size: 16px;
+}

@@ -1,0 +1,53 @@
+/* App.css */
+
+.App {
+  
+  
+  background-color: #f0f0f0; /* Change the background color as needed */
+}
+
+nav img {
+  margin-left: 30px;
+  max-width: 5%; /* Resize the logo to fit its container */
+  margin-bottom: 2px; /* Add space below the logo */
+
+  
+  
+}
+
+nav {
+  margin-top: 8px; /* Add space above the navigation */
+  margin-bottom: 7px;
+  padding: 20px;
+  
+  
+  
+}
+
+ul {
+  list-style: none;
+  padding: 2;
+  margin: 0;
+}
+
+li {
+  display: inline-block;
+  margin-right: 50px;
+  margin-bottom: 12px;
+  margin-left: 60px; /* Add space between navigation items */
+  
+}
+
+li:last-child {
+  margin-right: 0; /* Remove right margin for the last navigation item */
+}
+
+a {
+  text-decoration: none;
+  color: #333; /* Change the link color as needed */
+  font-weight: bold;
+}
+
+a:hover {
+  color: #555; /* Change the link color on hover as needed */
+}
